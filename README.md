@@ -29,7 +29,7 @@ I'm Md. Mehedy Hasan Tanvir, a passionate MERN stack developer from Mymensingh, 
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehedy-Tanvir&show_icons=true&hide_title=true&count_private=true&hide=issues)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mehedy-Tanvir&theme=green-nur)](https://git.io/streak-stats)
 
 ## 📝 Latest Blog Posts
 
