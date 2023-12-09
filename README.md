@@ -10,7 +10,7 @@ I'm Md. Mehedy Hasan Tanvir, a passionate MERN stack developer from Mymensingh, 
 
 I specialize in building dynamic and scalable web applications using the MERN stack. From crafting responsive user interfaces with React.js to developing robust server-side applications with Node.js and Express.js, I bring ideas to life. My expertise also extends to database management with MongoDB and creating seamless full-stack solutions.
 
-## 🔧 Technologies
+## 🔧 Technologies That I Know
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,expressjs,mongodb,firebase&perline=9)](https://skillicons.dev)
 
