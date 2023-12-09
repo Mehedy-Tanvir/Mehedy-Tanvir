@@ -1,16 +1,45 @@
-### Hi there 👋
+![Profile Banner](/assets/banner.png)
 
-<!--
-**Mehedy-Tanvir/Mehedy-Tanvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+I'm Md. Mehedy Hasan Tanvir, a passionate MERN stack developer from Mymensingh, Bangladesh. Welcome to my GitHub profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+- [Tech/Tool 1]
+- [Tech/Tool 2]
+- [Tech/Tool 3]
+
+## 🌱 Currently Learning
+
+[What you are currently learning or working on]
+
+## 📫 How to reach me
+
+- [Email](mehedytanvir451@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mehedytanvir)
+
+## 😄 Pronouns
+
+[Your Pronouns]
+
+## ⚡ Fun fact
+
+[Interesting fact about yourself]
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehedy-Tanvir&show_icons=true&hide_title=true&count_private=true&hide=issues)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Title of Blog Post 1](url_to_your_blog_post_1)
+- [Title of Blog Post 2](url_to_your_blog_post_2)
+<!-- BLOG-POST-LIST:END -->
+
+## 🚧 Current Projects
+
+- [Project 1](url_to_project_1)
+- [Project 2](url_to_project_2)
