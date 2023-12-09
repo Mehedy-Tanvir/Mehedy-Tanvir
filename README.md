@@ -42,25 +42,12 @@ I can speak Hindi.
 
 ## 📫 How to reach me
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-
-  <!-- Email Button -->
-  <a href="mailto:mehedytanvir451@gmail.com" style="text-decoration: none;">
-    <div style="background-color: #3498db; padding: 10px 20px; border-radius: 5px; display: flex; align-items: center;">
-      <img src="./assets/gmail.svg" alt="Gmail Logo" width="30" height="30" style="margin-right: 10px;">
-      <span style="color: #fff; font-weight: bold; font-size: 16px;">Email</span>
-    </div>
-  </a>
-
-  <!-- LinkedIn Button -->
-  <a href="https://www.linkedin.com/in/mehedytanvir" style="text-decoration: none;">
-    <div style="background-color: #0077b5; padding: 10px 20px; border-radius: 5px; display: flex; align-items: center;">
-      <img src="./assets/linkedin.svg" alt="LinkedIn Logo" width="30" height="30" style="margin-right: 10px;">
-      <span style="color: #fff; font-weight: bold; font-size: 16px;">LinkedIn</span>
-    </div>
-  </a>
-
-</div>
+<a href="mailto:mehedytanvir451@gmail.com" style="margin-right: 20px;">
+  <img src="./assets/gmail.svg" alt="Gmail Logo" width="50" height="50">
+</a>
+<a href="https://www.linkedin.com/in/mehedytanvir">
+  <img src="./assets/linkedin.svg" alt="LinkedIn Logo" width="50" height="50">
+</a>
 
 ## 🚀 Last Projects
 
