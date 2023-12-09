@@ -16,7 +16,7 @@ I am currently exploring Next.js.
 
 ## 📫 How to reach me
 
-<a href="mailto:mehedytanvir451@gmail.com" style="margin-right: 20px;">
+<a href="mailto:mehedytanvir451@gmail.com" style="margin-right: 30px;">
   <img src="./assets/gmail.svg" alt="Gmail Logo" width="50" height="50">
 </a>
 <a href="https://www.linkedin.com/in/mehedytanvir">
