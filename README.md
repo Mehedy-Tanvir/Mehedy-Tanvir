@@ -122,7 +122,7 @@ I can speak Hindi.
   - Client side was hosted to Firebase
   - Server side was hosted to Vercel
 
-#### Client Repository Link
+#### Client Repository
 
 - [https://github.com/Mehedy-Tanvir/destinize-travel-guide](https://github.com/Mehedy-Tanvir/destinize-travel-guide)
 
@@ -196,7 +196,7 @@ I can speak Hindi.
   - Client side was hosted to Firebase
   - Server side was hosted to Vercel
 
-#### Client Repository Link
+#### Client Repository
 
 - [https://github.com/Mehedy-Tanvir/tour-guide-client](https://github.com/Mehedy-Tanvir/tour-guide-client)
 
@@ -264,7 +264,7 @@ I can speak Hindi.
   - Client side was hosted to Firebase
   - Server side was hosted to Vercel
 
-#### Client Repository Link
+#### Client Repository
 
 - [https://github.com/Mehedy-Tanvir/brand-shop-client](https://github.com/Mehedy-Tanvir/brand-shop-client)
 
