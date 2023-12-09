@@ -73,9 +73,58 @@ I can speak Hindi.
 - Successful or failed crud operations and authentications operations will show meaningful toast.
 - In the navbar when users log in he or she can see his image and dashboard.
 
-#### Live Links
+#### Technology Used
 
-#### [https://destinize-tour-guide.web.app/](https://destinize-tour-guide.web.app/)
+- **Frontend:**
+
+  - React.js
+  - React Router
+  - Tailwind CSS
+  - Daisy UI
+
+- **Backend:**
+
+  - Node.js
+  - Express.js
+  - MongoDB (Mongoose)
+
+- **Authentication:**
+
+  - Firebase (Email-password and social-based authentication)
+
+- **Payment:**
+
+  - Stripe
+
+- **Other Libraries:**
+
+  - JWT (JSON Web Token)
+  - Axios
+  - Tanstack Query
+  - React Hot Toast
+  - React Rating
+  - Framer Motion
+  - React Awesome Slider
+  - React Confetti
+  - React Datepicker
+  - React Helmet Async
+  - React Icons
+  - React Share
+  - React Simple Captcha
+  - Sweet Alert 2
+
+- **Deployment:**
+
+  - Firebase Hosting
+
+#### Server Repository Link
+
+- [https://github.com/Mehedy-Tanvir/destinize-travel-guide-server](https://github.com/Mehedy-Tanvir/destinize-travel-guide-server)
+
+  #### Live Links
+
+- [https://destinize-tour-guide.web.app/](https://destinize-tour-guide.web.app/)
+- [https://destinize-tour-guide.firebaseapp.com/](https://destinize-tour-guide.firebaseapp.com/)
 
 2. **Project Name 2**
    - Description: Briefly describe the project.
