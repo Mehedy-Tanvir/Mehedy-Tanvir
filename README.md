@@ -4,11 +4,9 @@
 
 I'm Md. Mehedy Hasan Tanvir, a passionate MERN stack developer from Mymensingh, Bangladesh. Welcome to my GitHub profile! 🚀
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies
 
-- [Tech/Tool 1]
-- [Tech/Tool 2]
-- [Tech/Tool 3]
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,expressjs,mongodb&perline=8)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
