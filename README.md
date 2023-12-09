@@ -14,9 +14,27 @@ I specialize in building dynamic and scalable web applications using the MERN st
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,expressjs,mongodb,firebase&perline=9)](https://skillicons.dev)
 
-## 🌱 Currently Learning
+## 👀 Current Overview
 
-I am currently exploring Next.js.
+### 🔭 I’m working
+
+Engaged in independent projects and personal development.
+
+### 🌱 I’m exploring
+
+Delving into Next.js to enhance my expertise.
+
+### 👯 I’m looking
+
+Seeking opportunities to collaborate on exciting open-source projects.
+
+### 🤔 I’m trying
+
+Dedicated to helping individuals learn and grow in the field of web development.
+
+### ⚡ Fun fact
+
+I can speak Hindi.
 
 ## 📫 How to reach me
 
