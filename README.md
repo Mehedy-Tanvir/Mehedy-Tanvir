@@ -64,7 +64,7 @@ I can speak Hindi.
 - Authenticated users can also make review in Tour guide profiles.
 - Authenticated users can also write stories which are showcased to visitors.
 - Mongodb database is used with Mongoose.
-- Both email-password and social based authentication is implemented by firebase. Only the home page and all services pages are public.
+- Both email-password and social based authentication is implemented by firebase.
 - Stripe Payment system is implemented in this project.
 - JWT based authentication is implemented.
 - Axios interceptor functionality is implemented.
