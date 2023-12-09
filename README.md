@@ -10,12 +10,16 @@ I'm Md. Mehedy Hasan Tanvir, a passionate MERN stack developer from Mymensingh, 
 
 ## 🌱 Currently Learning
 
-[What you are currently learning or working on]
+I am currently exploring Next.js.
 
 ## 📫 How to reach me
 
-- [Email](mehedytanvir451@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mehedytanvir)
+<a href="mehedytanvir451@gmail.com">
+  <img src="./assets/gmail.svg" alt="Gmail Logo" width="50" height="50">
+</a>
+<a href="https://www.linkedin.com/in/mehedytanvir">
+  <img src="./assets/linkedin.svg" alt="LinkedIn Logo" width="50" height="50">
+</a>
 
 ## 😄 Pronouns
 
