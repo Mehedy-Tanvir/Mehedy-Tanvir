@@ -6,7 +6,7 @@ I'm Md. Mehedy Hasan Tanvir, a passionate MERN stack developer from Mymensingh, 
 
 ## 🔧 Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,expressjs,mongodb&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,expressjs,mongodb,firebase&perline=9)](https://skillicons.dev)
 
 ## 🌱 Currently Learning
 
