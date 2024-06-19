@@ -22,11 +22,11 @@ I specialize in building dynamic and scalable web applications using the MERN st
 
 ### 🔭 I’m working
 
-Engaged in independent projects and personal development.
+Currently I am working as a Full Stack Developer at 3W.
 
 ### 🌱 I’m exploring
 
-Delving into Next.js to enhance my expertise.
+Delving into React Native to enhance my expertise.
 
 ### 👯 I’m looking
 
