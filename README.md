@@ -22,7 +22,7 @@ I specialize in building dynamic and scalable web applications using the MERN st
 
 ### 🔭 I’m working
 
-Currently I am working as a Full Stack Developer at 3W.
+Currently I am working as a Full Stack Developer at FlowAppz.
 
 ### 🌱 I’m exploring
 
