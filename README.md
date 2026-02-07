@@ -43,7 +43,7 @@ Currently working as a **Full-Stack Developer at FlowAppz**, with ownership over
 
 ### 🌱 I’m exploring
 
-Advanced **TypeScript patterns**, backend system design, and **React Native** for cross-platform products.
+**Scalable backend system design**, **strong type modeling**, and **cross-platform product architecture**.
 
 ### 👯 I’m looking
 
@@ -55,7 +55,7 @@ Continuously improving system design decisions, code quality, and operational re
 
 ### ⚡ Fun fact
 
-I can speak Hindi.
+I enjoy mentoring and helping engineers think more clearly about system design.
 
 ---
 
