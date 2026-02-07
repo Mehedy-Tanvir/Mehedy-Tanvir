@@ -29,7 +29,7 @@ My background includes designing APIs, implementing authentication and payment f
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,react,nextjs,postgresql,mongodb,prisma,firebase,docker&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,nodejs,express,react,nextjs,postgresql,mongodb,prisma,firebase,docker&perline=11)](https://skillicons.dev)
 
 </div>
 
