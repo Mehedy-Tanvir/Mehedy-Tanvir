@@ -61,16 +61,15 @@ I enjoy mentoring and helping engineers think more clearly about system design.
 
 ## 📫 How to reach me
 
-<div align="center">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-    <a href="mailto:mehedytanvir451@gmail.com">
-      <img src="./assets/gmail.svg" alt="Gmail Logo" width="45" height="45">
-    </a>
-    <a href="https://www.linkedin.com/in/mehedytanvir">
-      <img src="./assets/linkedin.svg" alt="LinkedIn Logo" width="45" height="45">
-    </a>
-  </div>
-</div>
+<p align="center">
+  <a href="mailto:mehedytanvir451@gmail.com">
+    <img src="./assets/gmail.svg" alt="Email" width="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mehedytanvir">
+    <img src="./assets/linkedin.svg" alt="LinkedIn" width="36" />
+  </a>
+</p>
 
 ---
 
